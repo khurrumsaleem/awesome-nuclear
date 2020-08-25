@@ -14,6 +14,8 @@ A curated list of open source projects used in nuclear science and engineering.
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 - [Warp](https://github.com/weft/warp) - Monte Carlo neutron transport code on GPUs
+- [KOMODO](https://github.com/imronuke/KOMODO) - FDM/PNM/SANM based Reactor Core Analysis Tool
+- [Milonga](https://github.com/seamplex/milonga) - Finite-volume/finite-element based solution using SN/diffusion method
 
 ### Related Tools
 
